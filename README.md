@@ -8,7 +8,7 @@ Triggers Commands to push changes when they are detected.
 
 This script can be easily modified for any VCS / Cloud provider which provides command-line interface.
 
-Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-and-git-25b18a815778
+Supporting Medium Article : https://medium.com/@apsychogirl/the-crio-bootcamp-2aa2f4016e28?sk=b8202f2abaa29201e0eebe342cefa101
 
 ## Before Using : 
 1. Make sure git or whatever VCS you're using is configured properly (SSH keys) and you already have cloned the target repo to your local machine.
@@ -45,12 +45,10 @@ Supporting Medium Article : https://medium.com/@mujtaba1747/how-to-learn-linux-a
 4. More about the kill command : http://linuxcommand.org/lc3_man_pages/kill1.html (one could go through `man kill` alternatively)
 
 5. More about the inotifywait call : https://man7.org/linux/man-pages/man1/inotifywait.1.html (one could go through `man inotifywait` instead if inotify-tools are installed) 
-
-6. Video Demonstration of the Project : https://www.youtube.com/watch?v=2Gru7rnZRZA
  
 Pull Requests and issues are Welcome !
   
-For any queries feel free reach out : mujtaba1747@gmail.com
+For any queries feel free reach out : meghajais.mj@gmail.com
 
 ## One small Caveat
 You can't upload files whose induvidual size is larger than 50 MB.
